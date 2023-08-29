@@ -8,7 +8,7 @@ ___
  * MVC
  * UserDefaults
  * URLSession
- * 
+
 # Скриншоты
 ___
    
